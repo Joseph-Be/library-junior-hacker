@@ -5,7 +5,7 @@ hosts:
     base_box:
       image: kali
       mgmt_user: debian
-    flavor: m1.medium
+    flavor: m1.xlarge
 
   - name: server
     base_box:
